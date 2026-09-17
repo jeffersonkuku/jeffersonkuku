@@ -1,27 +1,47 @@
 # Jefferson Mawapanga Saku
 
-### Power BI · Business Intelligence · Data & Operational Analytics
+### Microsoft Power Platform · Power Apps · Power Automate · SharePoint · Power BI · Business Intelligence
 
-I build decision-support solutions that turn operational and financial data into clear, actionable reporting for management and business teams.
+I build business applications, workflow automation and decision-support solutions that turn operational processes and data into clear, usable digital tools.
 
-My portfolio focuses on **Power BI, DAX, Power Query, semantic modelling, financial steering, procurement analytics, supplier performance and SLA / operational reporting**.
+My portfolio covers **Power Apps, Power Fx, Power Automate, SharePoint, Microsoft 365 integration, Power BI, DAX, Power Query, business process design, procurement workflows and operational reporting**.
 
+[![Power Platform](https://img.shields.io/badge/Power%20Platform-Portfolio-742774?logo=powerapps&logoColor=white)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Portfolio-F2C811?logo=powerbi&logoColor=000)](https://github.com/jeffersonkuku/powerbi-portfolio-projects)
-![DAX](https://img.shields.io/badge/DAX-Business%20KPIs-0078D4)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas%20Apps-742774?logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflow-0066FF?logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-Business%20Data-038387?logo=microsoftsharepoint&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346)
-![PBIP](https://img.shields.io/badge/PBIP%20%2F%20TMDL-Source%20Controlled-5C2D91)
 
 ## What I demonstrate
 
-- End-to-end Power BI delivery: **data preparation → modelling → DAX → KPI design → dashboard UX → business analysis**
-- Financial and budget steering
-- Procurement, supplier and purchasing analytics
-- SLA, backlog, service-performance and contractual-risk monitoring
-- Executive dashboards with operational drill-down
-- PBIP / TMDL source-controlled Power BI projects
+- End-to-end **Power Platform solution design**: business need → process → data model → Canvas App → automation → permissions → deployment thinking
+- Power Apps Canvas applications and Power Fx business logic
+- Power Automate workflow orchestration and notification patterns
+- SharePoint lists, document libraries and Microsoft 365 integration
+- Procurement / request-management workflows and operational applications
+- Delegation-aware and maintainable application design
+- End-to-end Power BI delivery: data preparation → modelling → DAX → KPI design → dashboard UX → business analysis
+- Financial, procurement, SLA and operational-performance reporting
 - Synthetic and anonymised portfolio datasets suitable for public review
 
-## Featured projects
+## Featured Power Platform project
+
+### Procurement & Request Management Platform
+
+**Enterprise-style procurement workflow built with Power Apps, Power Fx, Power Automate, SharePoint and Microsoft 365.**
+
+The portfolio documents the complete request lifecycle: creation, review, team + owner assignment, acceptance, processing, documents, comments, notifications, access management, closure and archive behaviour.
+
+The public repository contains architecture diagrams, functional documentation, security / ALM considerations and sanitised technical samples. Production application packages, flows, tenant URLs and confidential data are intentionally not published.
+
+**Shows:** Power Apps · Power Fx · Power Automate · SharePoint · Microsoft 365 · business process design · document management · workflow orchestration · security thinking · ALM
+
+[Explore the Power Platform project →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)
+
+---
+
+## Featured Power BI projects
 
 ### 1 — Procurement & Financial Control Tower
 
@@ -65,18 +85,19 @@ My portfolio focuses on **Power BI, DAX, Power Query, semantic modelling, financ
 
 ## Professional context
 
-The public projects are **anonymised portfolio reconstructions inspired by reporting, analytics and operational-steering solutions developed during my professional experience at ENGIE Solutions**.
+The public projects are **anonymised portfolio reconstructions inspired by solutions developed during my professional experience**.
 
-They preserve the business problems, analytical approach, KPI logic and reporting methods used in a professional environment while replacing or recreating confidential names, identifiers, source systems, values and datasets.
+They preserve the business problems, analytical approach, application architecture, workflow logic and reporting methods used in a professional environment while replacing or recreating confidential names, identifiers, source systems, values and datasets.
 
-> These are portfolio adaptations, not official ENGIE deliverables. No confidential production information is intentionally published.
+> These are portfolio adaptations, not official client or employer deliverables. No confidential production information is intentionally published.
 
 ## What I can contribute
 
-I am particularly interested in work where Power BI is used to solve a concrete business problem rather than only produce charts: **financial steering, procurement, operational performance, management reporting, KPI design and decision support**.
+I am particularly interested in work where Microsoft Power Platform is used to solve a concrete business problem: **business applications, process automation, procurement workflows, operational tools, reporting, financial steering and decision support**.
 
-I am open to **Power BI / Business Intelligence / Reporting / Business Analysis opportunities and freelance dashboard projects**.
+I am open to **Power Platform / Power Apps / Power Automate / SharePoint / Power BI / Business Analysis opportunities and freelance projects**.
 
 ### Start here
 
-➡️ **[Open my full Power BI portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects)**
+➡️ **[Open my Power Platform project](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)**  
+➡️ **[Open my Power BI portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects)**

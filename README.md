@@ -1,103 +1,201 @@
 # Jefferson Mawapanga Saku
 
-### Microsoft Power Platform · Power Apps · Power Automate · SharePoint · Power BI · Business Intelligence
+> **Power Platform Engineer · Power Apps · Power Automate · SharePoint · Power BI · Business Intelligence**
 
-I build business applications, workflow automation and decision-support solutions that turn operational processes and data into clear, usable digital tools.
+[English](#english) · [Français](#francais)
 
-My portfolio covers **Power Apps, Power Fx, Power Automate, SharePoint, Microsoft 365 integration, Power BI, DAX, Power Query, business process design, procurement workflows and operational reporting**.
-
-[![Power Platform](https://img.shields.io/badge/Power%20Platform-Portfolio-742774?logo=powerapps&logoColor=white)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Portfolio-F2C811?logo=powerbi&logoColor=000)](https://github.com/jeffersonkuku/powerbi-portfolio-projects)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas%20Apps-742774?logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflow-0066FF?logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-Business%20Data-038387?logo=microsoftsharepoint&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346)
-
-## What I demonstrate
-
-- End-to-end **Power Platform solution design**: business need → process → data model → Canvas App → automation → permissions → deployment thinking
-- Power Apps Canvas applications and Power Fx business logic
-- Power Automate workflow orchestration and notification patterns
-- SharePoint lists, document libraries and Microsoft 365 integration
-- Procurement / request-management workflows and operational applications
-- Delegation-aware and maintainable application design
-- End-to-end Power BI delivery: data preparation → modelling → DAX → KPI design → dashboard UX → business analysis
-- Financial, procurement, SLA and operational-performance reporting
-- Synthetic and anonymised portfolio datasets suitable for public review
-
-## Featured Power Platform project
-
-### Procurement & Request Management Platform
-
-**Enterprise-style procurement workflow built with Power Apps, Power Fx, Power Automate, SharePoint and Microsoft 365.**
-
-The portfolio documents the complete request lifecycle: creation, review, team + owner assignment, acceptance, processing, documents, comments, notifications, access management, closure and archive behaviour.
-
-The public repository contains architecture diagrams, functional documentation, security / ALM considerations and sanitised technical samples. Production application packages, flows, tenant URLs and confidential data are intentionally not published.
-
-**Shows:** Power Apps · Power Fx · Power Automate · SharePoint · Microsoft 365 · business process design · document management · workflow orchestration · security thinking · ALM
-
-[Explore the Power Platform project →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)
+[![Power Platform Portfolio](https://img.shields.io/badge/Power%20Platform-View%20Portfolio-742774?logo=powerapps&logoColor=white)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)
+[![Power BI Portfolio](https://img.shields.io/badge/Power%20BI-View%20Portfolio-F2C811?logo=powerbi&logoColor=000)](https://github.com/jeffersonkuku/powerbi-portfolio-projects)
 
 ---
 
-## Featured Power BI projects
+## Start here
 
-### 1 — Procurement & Financial Control Tower
+My public portfolio is intentionally focused on **two areas**:
+
+### 1. Power Platform
+**Business applications, workflow automation, SharePoint architecture and operational digitalisation**
+
+➡️ **[Open the Power Platform portfolio](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)**
+
+Featured case studies:
+- **Building Operations Hub** — multi-technical maintenance, on-call assistance, equipment tutorials, governed contacts, hot barometry
+- **ProcureFlow** — procurement/request workflow, assignment, documents, notifications, team management and lifecycle tracking
+
+### 2. Power BI
+**Financial steering, procurement analytics, SLA monitoring and operational decision support**
+
+➡️ **[Open the Power BI portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects)**
+
+Featured projects:
+- **Procurement & Financial Control Tower**
+- **SLA & Penalties Operations Portfolio**
+- **P2 Consumables Financial Monitoring**
+- **Financial Pilotage Portfolio**
+- **Procurement & Budget Portfolio**
+
+---
+
+<a id="english"></a>
+
+# 🇬🇧 English
+
+## What I build
+
+I design end-to-end Microsoft business solutions that connect:
+
+**Business need → Data → Application / Automation → Security → Reporting → Decision support**
+
+### Power Platform
+
+- Power Apps Canvas applications
+- Power Fx business logic
+- Power Automate workflows
+- SharePoint lists and document libraries
+- Microsoft 365 integration
+- Approval workflows and notifications
+- Responsive desktop / tablet / mobile UX
+- Security and least-privilege design
+- Delegation and performance optimisation
+- DEV → TEST/UAT → PROD ALM
+
+### Power BI
+
+- Power Query / M
+- DAX
+- Semantic modelling
+- PBIP / PBIR / TMDL
+- Financial and procurement KPIs
+- Supplier performance
+- SLA / P95 / backlog analysis
+- Budget execution
+- Operational performance reporting
+- Data-quality and reconciliation controls
+
+---
+
+## Featured Power Platform project — Building Operations Hub
+
+[![Building Operations Hub](https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)
+
+**Industrial operations and on-call assistance application** structured around:
+
+**Site → Building → Floor/Zone → Equipment → Action/Tutorial**
+
+It demonstrates responsive Power Apps UX, SharePoint-oriented architecture, Power Automate approval logic, governed contact management, technical-content workflows and intervention feedback.
+
+➡️ **[Open the case study](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)**
+
+---
+
+## Featured Power BI project — Procurement & Financial Control Tower
 
 [![Procurement & Financial Control Tower](https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-procurement-financial-control-tower/assets/executive-procurement-control-tower.png)](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)
 
-**Executive procurement and finance cockpit** combining budget execution, invoiced spend, open commitments, negotiated savings, OTIF, supplier risk and overdue exposure.
+**Executive procurement and finance cockpit** combining budget execution, invoiced spend, open commitments, savings, OTIF, supplier risk and overdue exposure.
 
-**Shows:** DAX · Power Query · PBIP · PBIR · TMDL · star-schema modelling · procurement KPIs · supplier performance · exception management
-
-[Explore the project →](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)
+➡️ **[Open the Power BI project](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)**
 
 ---
 
-### 2 — SLA & Penalties Operations Portfolio
+## Other selected work
 
-[![SLA & Penalties Operations Portfolio](https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-sla-penalties-portfolio/assets/performance-sla-intervention-red.jpg)](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio)
+### Power Platform
+- **[ProcureFlow](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/procureflow)** — enterprise procurement and request-management workflow
 
-**Operational performance and contractual-risk reporting** covering intervention and restoration SLA, P95 / median / average performance, backlog, preventive maintenance, benchmarks and potential penalty exposure.
-
-**Shows:** advanced KPI logic · evaluable populations · P95 · operational analytics · SLA parameterisation · PBIP / TMDL
-
-[Explore the project →](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio)
+### Power BI
+- **[SLA & Penalties Operations Portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio)**
+- **[P2 Consumables Financial Monitoring](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-p2-consumables-financial-monitoring)**
+- **[Financial Pilotage Portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-financial-pilotage-portfolio)**
+- **[Procurement & Budget Portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-budget-portfolio)**
 
 ---
 
-### 3 — P2 Consumables Financial Monitoring
+## Portfolio approach
 
-[![P2 Consumables Financial Monitoring](https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-p2-consumables-financial-monitoring/assets/01-subcontracting-invoicing-overview.png)](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-p2-consumables-financial-monitoring)
+The public projects are **sanitised/anonymised portfolio adaptations** designed to demonstrate professional architecture, business logic, UX and analytical methods without exposing confidential production data.
 
-**Multi-year financial monitoring** connecting procurement, consumables, subcontracting commitments, budgets and invoicing in one decision-support model.
+For enterprise Power Platform projects, production `.msapp` packages, Power Fx implementation details, Power Automate exports, tenant URLs and credentials are intentionally not published.
 
-**Shows:** shared calendar modelling · cumulative DAX · budget trajectories · invoicing ratios · supplier analysis · reconciliation controls · PBIP / TMDL
+---
 
-[Explore the project →](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-p2-consumables-financial-monitoring)
+<a id="francais"></a>
 
-## More Power BI work
+# 🇫🇷 Français
 
-- [Financial Pilotage Portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-financial-pilotage-portfolio) — budget execution, commitments, suppliers and purchase-order traceability
-- [Procurement & Budget Portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-budget-portfolio) — purchasing activity, consumables and budget consumption
-- [Full Power BI portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects)
+## Ce que je sais construire
 
-## Professional context
+Je conçois des solutions Microsoft de bout en bout reliant :
 
-The public projects are **anonymised portfolio reconstructions inspired by solutions developed during my professional experience**.
+**Besoin métier → Données → Application / Automatisation → Sécurité → Reporting → Aide à la décision**
 
-They preserve the business problems, analytical approach, application architecture, workflow logic and reporting methods used in a professional environment while replacing or recreating confidential names, identifiers, source systems, values and datasets.
+### Power Platform
 
-> These are portfolio adaptations, not official client or employer deliverables. No confidential production information is intentionally published.
+- applications Power Apps Canvas
+- logique Power Fx
+- workflows Power Automate
+- listes et bibliothèques SharePoint
+- intégration Microsoft 365
+- approbations et notifications
+- UX responsive desktop / tablette / mobile
+- sécurité et moindre privilège
+- délégation et optimisation des performances
+- ALM DEV → TEST/UAT → PROD
 
-## What I can contribute
+### Power BI
 
-I am particularly interested in work where Microsoft Power Platform is used to solve a concrete business problem: **business applications, process automation, procurement workflows, operational tools, reporting, financial steering and decision support**.
+- Power Query / M
+- DAX
+- modélisation sémantique
+- PBIP / PBIR / TMDL
+- KPI financiers et achats
+- performance fournisseurs
+- SLA / P95 / backlog
+- suivi budgétaire
+- reporting de performance opérationnelle
+- contrôles de qualité et rapprochement des données
 
-I am open to **Power Platform / Power Apps / Power Automate / SharePoint / Power BI / Business Analysis opportunities and freelance projects**.
+---
 
-### Start here
+## Projet Power Platform à voir — Building Operations Hub
 
-➡️ **[Open my Power Platform project](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku)**  
-➡️ **[Open my Power BI portfolio](https://github.com/jeffersonkuku/powerbi-portfolio-projects)**
+[![Building Operations Hub](https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub#francais)
+
+Application d'exploitation industrielle et d'astreinte structurée autour du parcours :
+
+**Site → Bâtiment → Étage/Zone → Équipement → Action/Tutoriel**
+
+Le projet démontre l'UX responsive Power Apps, l'architecture SharePoint, la logique d'approbation Power Automate, la gouvernance des contacts, les contenus techniques et la barométrie d'intervention.
+
+➡️ **[Voir l'étude de cas](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub#francais)**
+
+---
+
+## Projet Power BI à voir — Procurement & Financial Control Tower
+
+[![Procurement & Financial Control Tower](https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-procurement-financial-control-tower/assets/executive-procurement-control-tower.png)](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower#francais)
+
+Cockpit exécutif achats/finance combinant budget, facturation, engagements ouverts, économies, OTIF, risque fournisseur et exposition aux retards.
+
+➡️ **[Voir le projet Power BI](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower#francais)**
+
+---
+
+## Autres projets sélectionnés
+
+### Power Platform
+- **[ProcureFlow](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/procureflow#francais)** — workflow d'entreprise de gestion des demandes achats
+
+### Power BI
+- **[Portfolio SLA & Pénalités](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio#francais)**
+- **[P2 Consumables Financial Monitoring](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-p2-consumables-financial-monitoring#francais)**
+- **[Portfolio Pilotage Financier](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-financial-pilotage-portfolio#francais)**
+- **[Portfolio Achats & Budget](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-budget-portfolio#francais)**
+
+---
+
+## Approche portfolio
+
+Les projets publics sont des **adaptations anonymisées** destinées à démontrer l'architecture, la logique métier, l'UX et les méthodes d'analyse sans exposer les données confidentielles de production.
+
+Pour les projets Power Platform d'entreprise, les packages `.msapp`, formules Power Fx d'implémentation, exports Power Automate, URLs de tenant et identifiants restent volontairement privés.

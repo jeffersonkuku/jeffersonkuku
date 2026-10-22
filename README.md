@@ -33,7 +33,7 @@ flowchart LR
 <br>🇫🇷 Centraliser une demande, son responsable, ses documents, ses e-mails et son historique.
 <br><em>🇬🇧 Centralise a request, its owner, documents, e-mails and history.</em>
 <br><br><code>Demande → équipe → traitement → historique / Request → team → processing → history</code>
-<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><strong>Voir le projet / Open project →</strong></a>
+<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><strong>Voir le projet / Open project →</strong></a><br><a href="https://www.youtube.com/watch?v=_jR8T9s2VUE">▶ Démo / Demo</a>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png" alt="Building Operations Hub" width="100%"></a>
@@ -41,7 +41,7 @@ flowchart LR
 <br>🇫🇷 Guider un technicien jusqu’à la bonne procédure ou au bon contact terrain.
 <br><em>🇬🇧 Guide a technician to the right field procedure or contact.</em>
 <br><br><code>Site → bâtiment → zone → équipement → action / Site → building → zone → equipment → action</code>
-<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><strong>Voir le projet / Open project →</strong></a>
+<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><strong>Voir le projet / Open project →</strong></a><br><a href="https://www.youtube.com/watch?v=Y15BCn_i-fo">▶ Démo / Demo</a>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower"><img src="https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-procurement-financial-control-tower/assets/executive-procurement-control-tower.png" alt="Procurement & Financial Control Tower" width="100%"></a>

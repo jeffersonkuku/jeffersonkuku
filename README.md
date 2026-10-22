@@ -10,44 +10,48 @@
 
 I turn **manual processes, scattered e-mails and hard-to-read data** into simple business applications, automations and dashboards.
 
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system">
+<img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/power-platform-ticketing-system/assets/01-home_4K.png" width="100%">
+</a>
+<br><strong>Ticketing & Request Management</strong><br>
+Requests → right team → status → documents → history.
+<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><strong>Open project →</strong></a>
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub">
+<img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png" width="100%">
+</a>
+<br><strong>Building Operations Hub</strong><br>
+Site → building → equipment → procedure / contact.
+<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><strong>Open project →</strong></a>
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower">
+<img src="https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-procurement-financial-control-tower/assets/executive-procurement-control-tower.png" width="100%">
+</a>
+<br><strong>Procurement Control Tower</strong><br>
+Budget → spend → commitments → supplier risk.
+<br><br><a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower"><strong>Open project →</strong></a>
+</td>
+</tr>
+</table>
+
+### My approach
+
 ```mermaid
 flowchart LR
     A[Business problem] --> B[Simple user journey]
     B --> C[Application or dashboard]
     C --> D[Automation]
-    D --> E[Clear status / decision]
+    D --> E[Clear follow-up / decision]
 ```
 
-### Featured projects
-
-#### 1. Ticketing & Request Management
-
-**Problem:** requests get lost between e-mails, documents and several teams.  
-**Solution:** one application to create, assign, follow and close a request.
-
-[![Ticketing application](https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/power-platform-ticketing-system/assets/01-home_4K.png)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system)
-
-**[Open the project →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system)** · **[Watch the demo →](https://www.youtube.com/watch?v=_jR8T9s2VUE)**
-
-#### 2. Building Operations Hub
-
-**Problem:** technicians lose time looking for the right procedure or contact.  
-**Solution:** one field application organised around the real equipment journey.
-
-[![Building Operations Hub](https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png)](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)
-
-**Site → Building → Zone → Equipment → Action**
-
-**[Open the project →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)** · **[Watch the demo →](https://www.youtube.com/watch?v=Y15BCn_i-fo)**
-
-#### 3. Procurement & Financial Control Tower
-
-**Problem:** budget, spend, commitments and supplier risk are split across several views.  
-**Solution:** one Power BI cockpit for fast management decisions.
-
-[![Procurement Control Tower](https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-procurement-financial-control-tower/assets/executive-procurement-control-tower.png)](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)
-
-**[Open the project →](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)**
+Technical details are inside each project, not on this landing page.
 
 ---
 
@@ -57,39 +61,18 @@ flowchart LR
 
 Je transforme des **processus manuels, des e-mails dispersés et des données difficiles à lire** en applications métiers, automatisations et tableaux de bord simples.
 
+| Projet | En une phrase |
+|---|---|
+| **[Ticketing & gestion des demandes](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system)** | Une demande va vers la bonne équipe avec statut, documents et historique |
+| **[Building Operations Hub](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)** | Le technicien suit le site jusqu’au bon équipement puis ouvre la bonne procédure |
+| **[Procurement Control Tower](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)** | Le manager voit budget, dépenses, engagements et risques au même endroit |
+
 ```mermaid
 flowchart LR
-    A[Problème métier] --> B[Parcours utilisateur simple]
-    B --> C[Application ou tableau de bord]
+    A[Problème métier] --> B[Parcours simple]
+    B --> C[Application ou dashboard]
     C --> D[Automatisation]
-    D --> E[Statut clair / décision]
+    D --> E[Suivi / décision claire]
 ```
 
-### Projets principaux
-
-#### 1. Ticketing & gestion des demandes
-
-**Problème :** les demandes se perdent entre les e-mails, les documents et plusieurs équipes.  
-**Solution :** une seule application pour créer, affecter, suivre et clôturer une demande.
-
-**[Voir le projet →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system)** · **[Voir la vidéo →](https://www.youtube.com/watch?v=_jR8T9s2VUE)**
-
-#### 2. Building Operations Hub
-
-**Problème :** les techniciens perdent du temps à chercher la bonne procédure ou le bon contact.  
-**Solution :** une application terrain structurée comme le parcours réel de l’équipement.
-
-**Site → Bâtiment → Zone → Équipement → Action**
-
-**[Voir le projet →](https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub)** · **[Voir la vidéo →](https://www.youtube.com/watch?v=Y15BCn_i-fo)**
-
-#### 3. Procurement & Financial Control Tower
-
-**Problème :** budget, dépenses, engagements et risques fournisseurs sont répartis dans plusieurs vues.  
-**Solution :** un cockpit Power BI unique pour décider rapidement.
-
-**[Voir le projet →](https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-financial-control-tower)**
-
----
-
-**Power Apps · Power Automate · SharePoint · Microsoft 365 · Power BI · Power Query · DAX**
+Les détails techniques sont disponibles seulement après ouverture d’un projet.

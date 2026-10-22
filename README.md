@@ -28,7 +28,7 @@ flowchart LR
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/power-platform-ticketing-system/assets/01-home_4K.png" alt="Ticketing & Request Management" width="100%"></a>
+<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><img src="https://img.youtube.com/vi/_jR8T9s2VUE/maxresdefault.jpg" alt="Ticketing & Request Management" width="100%"></a>
 <br><strong>Ticketing & Request Management</strong>
 <br>🇫🇷 Centraliser une demande, son responsable, ses documents, ses e-mails et son historique.
 <br><em>🇬🇧 Centralise a request, its owner, documents, e-mails and history.</em>
@@ -36,7 +36,7 @@ flowchart LR
 <br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/power-platform-ticketing-system"><strong>Voir le projet / Open project →</strong></a><br><a href="https://www.youtube.com/watch?v=_jR8T9s2VUE">▶ Démo / Demo</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/projects/building-operations-hub/assets/01-home.png" alt="Building Operations Hub" width="100%"></a>
+<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/projects/building-operations-hub"><img src="https://img.youtube.com/vi/Y15BCn_i-fo/maxresdefault.jpg" alt="Building Operations Hub" width="100%"></a>
 <br><strong>Building Operations Hub</strong>
 <br>🇫🇷 Guider un technicien jusqu’à la bonne procédure ou au bon contact terrain.
 <br><em>🇬🇧 Guide a technician to the right field procedure or contact.</em>
@@ -54,7 +54,7 @@ flowchart LR
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio"><img src="https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-sla-penalties-portfolio/assets/performance-sla-intervention-red.jpg" alt="SLA & Penalties Operations" width="100%"></a>
+<a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-sla-penalties-portfolio"><img src="https://raw.githubusercontent.com/jeffersonkuku/powerbi-portfolio-projects/main/powerbi-sla-penalties-portfolio/assets/benchmark-sla-sites-equipes.jpg" alt="SLA & Penalties Operations" width="100%"></a>
 <br><strong>SLA & Penalties Operations</strong>
 <br>🇫🇷 Mesurer les délais, le backlog et le risque SLA sans masquer les cas extrêmes.
 <br><em>🇬🇧 Measure delays, backlog and SLA risk without hiding extreme cases.</em>
@@ -87,22 +87,7 @@ flowchart LR
 <br><br><code>Budget → commandes → consommé → restant / Budget → orders → consumed → remaining</code>
 <br><br><a href="https://github.com/jeffersonkuku/powerbi-portfolio-projects/tree/main/powerbi-procurement-budget-portfolio"><strong>Voir le projet / Open project →</strong></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/roadwords-au"><img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/roadwords-au/public/icon.svg" alt="RoadWords AU" width="100%"></a>
-<br><strong>RoadWords AU</strong>
-<br>🇫🇷 Apprendre du vocabulaire en commençant par une vraie prononciation australienne.
-<br><em>🇬🇧 Learn vocabulary by starting with real Australian pronunciation.</em>
-<br><br><code>Écouter → comprendre → répéter → réviser / Listen → understand → repeat → review</code>
-<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/roadwords-au"><strong>Voir le projet / Open project →</strong></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/native-english-coach"><img src="https://raw.githubusercontent.com/jeffersonkuku/jefferson-Mawapanga-Saku/main/native-english-coach/icon.svg" alt="Native English Coach" width="100%"></a>
-<br><strong>Native English Coach</strong>
-<br>🇫🇷 Travailler les blocs d’anglais natif par l’écoute, le contexte et la répétition.
-<br><em>🇬🇧 Practise native-English chunks through listening, context and repetition.</em>
-<br><br><code>Écouter → contexte → répéter → automatiser / Listen → context → repeat → automate</code>
-<br><br><a href="https://github.com/jeffersonkuku/jefferson-Mawapanga-Saku/tree/main/native-english-coach"><strong>Voir le projet / Open project →</strong></a>
-</td>
+<td width="33%"></td><td width="33%"></td>
 </tr>
 
 </table>
